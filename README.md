@@ -1,0 +1,1 @@
+# game.libretro.stella2023

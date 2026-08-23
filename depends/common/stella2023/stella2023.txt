@@ -1,0 +1,1 @@
+stella2023 https://github.com/libretro/stella2023/archive/878a9c8d5f03ef0b7cd190b5713d6bf31c48df38.tar.gz

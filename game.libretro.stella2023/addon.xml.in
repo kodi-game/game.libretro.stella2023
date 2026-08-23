@@ -19,5 +19,6 @@
 		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.stella2023</source>
+		<summary lang="en_GB">Atari - 2600 (Stella 2023)</summary>
 	</extension>
 </addon>

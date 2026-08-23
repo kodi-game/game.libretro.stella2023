@@ -20,6 +20,12 @@
 		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.stella2023</source>
+		<assets>
+			<icon>resources/icon.png</icon>
+			<screenshot>resources/screenshot-01.jpg</screenshot>
+			<screenshot>resources/screenshot-02.jpg</screenshot>
+			<screenshot>resources/screenshot-03.jpg</screenshot>
+		</assets>
 		<summary lang="en_GB">Atari - 2600 (Stella 2023)</summary>
 		<description lang="en_GB">Stella is a multi-platform Atari 2600 VCS emulator.[CR][CR]The Atari 2600 Video Computer System (VCS), introduced in 1977, was the most popular home video game system of the early 1980s.</description>
 		<disclaimer lang="en_GB">Stella was originally developed for Linux by Bradford W. Mott, and is currently maintained by Stephen Anthony.</disclaimer>

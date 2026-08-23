@@ -9,12 +9,12 @@
 					<constraints>
 						<options>
 							<option label="16316">auto</option>
-							<option>ntsc</option>
-							<option>pal</option>
-							<option>secam</option>
-							<option>ntsc50</option>
-							<option>pal60</option>
-							<option>secam60</option>
+							<option label="30017">ntsc</option>
+							<option label="30018">pal</option>
+							<option label="30019">secam</option>
+							<option label="30020">ntsc50</option>
+							<option label="30021">pal60</option>
+							<option label="30022">secam60</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -38,10 +38,10 @@
 					<constraints>
 						<options>
 							<option label="13106">disabled</option>
-							<option>composite</option>
-							<option>s-video</option>
-							<option>rgb</option>
-							<option>badly adjusted</option>
+							<option label="30023">composite</option>
+							<option label="30024">s-video</option>
+							<option label="30025">rgb</option>
+							<option label="30026">badly adjusted</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />

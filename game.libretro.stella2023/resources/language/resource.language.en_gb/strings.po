@@ -93,3 +93,43 @@ msgstr ""
 msgctxt "#30016"
 msgid "Lightgun crosshair"
 msgstr ""
+
+msgctxt "#30017"
+msgid "ntsc"
+msgstr ""
+
+msgctxt "#30018"
+msgid "pal"
+msgstr ""
+
+msgctxt "#30019"
+msgid "secam"
+msgstr ""
+
+msgctxt "#30020"
+msgid "ntsc50"
+msgstr ""
+
+msgctxt "#30021"
+msgid "pal60"
+msgstr ""
+
+msgctxt "#30022"
+msgid "secam60"
+msgstr ""
+
+msgctxt "#30023"
+msgid "composite"
+msgstr ""
+
+msgctxt "#30024"
+msgid "s-video"
+msgstr ""
+
+msgctxt "#30025"
+msgid "rgb"
+msgstr ""
+
+msgctxt "#30026"
+msgid "badly adjusted"
+msgstr ""

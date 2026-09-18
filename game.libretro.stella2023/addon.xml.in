@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.stella2023"
 		name="Atari - 2600 (Stella 2023)"
-		version="7.0.0.2"
+		version="7.0.0.3"
 		provider-name="Stephen Anthony, Bradford Mott, Eckhard Stolberg, Brian Watson">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -9,7 +9,7 @@
 	</requires>
 	<extension point="kodi.gameclient"
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
-		<platforms></platforms>
+		<platforms>Atari - 2600</platforms>
 		<extensions>a26|bin</extensions>
 		<supports_vfs>true</supports_vfs>
 		<supports_standalone>false</supports_standalone>

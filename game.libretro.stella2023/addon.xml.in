@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.stella2023"
 		name="Atari - 2600 (Stella 2023)"
-		version="7.0.0.4"
+		version="7.0.0.5"
 		provider-name="Stephen Anthony, Bradford Mott, Eckhard Stolberg, Brian Watson">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -14,7 +14,7 @@
 		<supports_vfs>true</supports_vfs>
 		<supports_standalone>false</supports_standalone>
 		<supports_disc_control>false</supports_disc_control>
-		<requires_opengl>false</requires_opengl>
+		<libretro_core>stella2023_libretro</libretro_core>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<license>GPLv2</license>
